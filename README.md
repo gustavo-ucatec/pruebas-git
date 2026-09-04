@@ -4,3 +4,4 @@
 # Josep Quinteros
 # Gustavo Rojas Valdivia
 # Kevin Sergio Ponce de León Terrazas
+# Manuel Fernando Canedo Puyal
